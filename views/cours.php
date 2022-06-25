@@ -78,8 +78,23 @@
                                                 Unité : Transformations chimiques en solutions ioniques</li>
                                             <h3>Science</h3>
                                             <h4>Premier Trimestre</h4>
-                                            <li>Unité : nombres naturels et nombres rationnels</li>
-                                            <li>Unité : arithmétique par racines</li>
+                                            <li>Unité : Conversion des aliments dans le tube </li>
+                                            <li>digestifUnité : Absorption des nutriments</li>
+                                            <li>Unité : Utilisation des éléments nutritifs</li>
+                                            <h4>Deuxieme Trimestre</h4>
+                                            <li>
+                                            </li>
+                                            <li>Unité : la réponse immunitaire</li>
+                                            <li>Unité : communication neuronale</li>
+                                            <h4>Troisieme Trimestre</h4>
+                                            <li>
+                                                Unité : Troubles génétiques
+                                            </li>
+                                            <li>Unité : formation des gamètes digestif</li>
+                                            <h3>Mathematiques</h3>
+                                            <h4>Premier Trimestre</h4>
+                                            Unité : nombres naturels et nombres rationnels <li>Unité : arithmétique par
+                                                racines</li>
                                             <li>Unité : arithmétique littérale (identités célèbres)</li>
                                             <h4>Deuxieme Trimestre</h4>
                                             <li>
@@ -89,38 +104,52 @@
                                             <li>Unité : inégalités du premier degré à inconnue</li>
                                             <h4>Troisieme Trimestre</h4>
                                             <li>
-                                                Unité : Troubles génétiques
-                                            </li>
-                                            <li>Unité : formation des gamètes digestif</li>
-                                            <h3>Mathematiques</h3>
-                                            <h4>Premier Trimestre</h4>
-                                            <li>Unité : Conversion des aliments dans le tube digestif</li>
-                                            <li>Unité : Absorption des nutriments</li>
-                                            <h4>Deuxieme Trimestre</h4>
-                                            <li>
-                                                Unité : la réponse immunitaire</li>
-                                            <li>Unité : communication neuronale digestif</li>
-                                            <h4>Troisieme Trimestre</h4>
-                                            <li>
-
                                                 Unité : Statistiques
                                             </li>
 
                                             <h3>Histoire</h3>
+                                            <h4>Premier Trimestre</h4>
+                                            <li>
+                                                Unité : Étude de la Lettre de Polyniac
+                                            </li>
+                                            <li>Unité : occupation française de
+                                                <h4>Deuxieme Trimestre</h4>
+                                            <li>
+                                                Unité : Histoire nationale</li>
+                                            <h4>Troisieme Trimestre</h4>
+                                            <li>
+                                                Unité : Histoire générale
+                                            </li>
                                             <h3>Geographie</h3>
+                                            <h4>Premier Trimestre</h4>
+                                            <li>Unité: La situation et l'importance de l'Algérie</li>
+                                            <li>Unité : diversité et variation régionale en Algérie</li>
+                                            <li>Unité : L'effet de la diversité climatique sur le réseau hydrographique
+                                                et la végétation</li>
+                                            <h4>Deuxieme Trimestre</h4>
+                                            <li>
+                                                Unité : Population et développement</li>
+                                            <h4>Troisieme Trimestre</h4>
+                                            <li>Unité : Population et Environnement
+                                            </li>
                                             <h3>Sciences Islamiques</h3>
-                                            <h3>Arabe</h3>
-                                            <h3>Francais</h3>
-                                            <h3>Anglais</h3>
+                                            <h4>Premier Trimestre</h4>
+                                            <li>Unité : Le Noble Coran et le Hadith du Prophète</li>
+                                            <li>Unité : croire au jour dernier</li>
+                                            <li>Unité : Hajj et ses dispositions)</li>
+                                            <h4>Deuxieme Trimestre</h4>
+                                            <li>
+                                                Unité : le deuxième champ</li>
+                                            <h4>Troisieme Trimestre</h4>
+                                            <li>
+                                                Unité : le troisième champ
+                                            </li>
 
-                                            </a>
+
+
+
+
                                         </div>
-                                    </div>
-                                </div>
-
-
-
-                            </div>
                         </section>
 
                     </div>
