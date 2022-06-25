@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Années</title>
+    <title>Nos Cours</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="manifest" href="site.webmanifest">
@@ -40,7 +40,7 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="hero-cap text-center">
-                                <h2>Années</h2>
+                                <h2>Mes Cours</h2>
                             </div>
                         </div>
                     </div>
@@ -64,51 +64,61 @@
                                             <a href="job_details.html"></a>
                                         </div>
                                         <div class="job-tittle">
-                                            <a href="cours.php">
-                                                <h4>1ère Année CEM</h4>
+                                            <h1>4ème Année CEM</h1>
+                                            <h3>Physique</h3>
+                                            <h4>Premier Trimestre</h4>
+                                            <li>Unité : Charge électrique et modèle simplifié de l'atome</li>
+                                            <li>Unité : Sécurité électrique</li>
+                                            <h4>Deuxieme Trimestre</h4>
+                                            <li>Unité : Approche élémentaire de la force en tant que rayon</li>
+                                            <li>Unité : l'équilibre d'un corps rigide soumis à plusieurs forces</li>
+                                            <li>Unité : Poussée d'Archimède</li>
+                                            <h4>Troisieme Trimestre</h4>
+                                            <li>
+                                                Unité : Transformations chimiques en solutions ioniques</li>
+                                            <h3>Science</h3>
+                                            <h4>Premier Trimestre</h4>
+                                            <li>Unité : nombres naturels et nombres rationnels</li>
+                                            <li>Unité : arithmétique par racines</li>
+                                            <li>Unité : arithmétique littérale (identités célèbres)</li>
+                                            <h4>Deuxieme Trimestre</h4>
+                                            <li>
+                                                Unité : Fonction linéaire et fonction convolutive</li>
+                                            <li>Unité : Résoudre un système de deux équations du premier degré à deux
+                                                inconnues</li>
+                                            <li>Unité : inégalités du premier degré à inconnue</li>
+                                            <h4>Troisieme Trimestre</h4>
+                                            <li>
+                                                Unité : Troubles génétiques
+                                            </li>
+                                            <li>Unité : formation des gamètes digestif</li>
+                                            <h3>Mathematiques</h3>
+                                            <h4>Premier Trimestre</h4>
+                                            <li>Unité : Conversion des aliments dans le tube digestif</li>
+                                            <li>Unité : Absorption des nutriments</li>
+                                            <h4>Deuxieme Trimestre</h4>
+                                            <li>
+                                                Unité : la réponse immunitaire</li>
+                                            <li>Unité : communication neuronale digestif</li>
+                                            <h4>Troisieme Trimestre</h4>
+                                            <li>
+
+                                                Unité : Statistiques
+                                            </li>
+
+                                            <h3>Histoire</h3>
+                                            <h3>Geographie</h3>
+                                            <h3>Sciences Islamiques</h3>
+                                            <h3>Arabe</h3>
+                                            <h3>Francais</h3>
+                                            <h3>Anglais</h3>
+
                                             </a>
                                         </div>
                                     </div>
                                 </div>
 
-                                <div class="single-job-items mb-30">
-                                    <div class="job-items">
-                                        <div class="company-img">
-                                            <a href="job_details.html"></a>
-                                        </div>
-                                        <div class="job-tittle">
-                                            <a href="cours.php">
-                                                <h4>2ème Année CEM</h4>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
 
-                                <div class="single-job-items mb-30">
-                                    <div class="job-items">
-                                        <div class="company-img">
-                                            <a href="job_details.html"></a>
-                                        </div>
-                                        <div class="job-tittle">
-                                            <a href="cours.php">
-                                                <h4>3ème Année CEM</h4>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="single-job-items mb-30">
-                                    <div class="job-items">
-                                        <div class="company-img">
-                                            <a href="job_details.html"></a>
-                                        </div>
-                                        <div class="job-tittle">
-                                            <a href="cours.php">
-                                                <h4>4ème Année CEM</h4>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
 
                             </div>
                         </section>

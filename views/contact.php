@@ -76,8 +76,8 @@
                                 <div class="form-group">
                                     <input class="form-control valid" name="number" id="number" type="text"
                                         onfocus="this.placeholder = ''"
-                                        onblur="this.placeholder = 'Votre numero de telephone (optionnel)'"
-                                        placeholder="Votre numero de telephone (optionnel)">
+                                        onblur="this.placeholder = 'Votre numéro de téléphone  (optionnel)'"
+                                        placeholder="Votre numéro de téléphone  (optionnel)">
                                 </div>
                             </div>
                             <div class="col-12">
@@ -97,21 +97,20 @@
                     <div class="media contact-info">
                         <span class="contact-info__icon"><i class="ti-home"></i></span>
                         <div class="media-body">
-                            <h3>Birkhadem, Algiers</h3>
-                            <p>60 rue du Kadous Tixeraine</p>
+                            <h3>Kouba, Alger</h3>
+                            <p> 32 Rue Mohamed Benkhala</p>
                         </div>
                     </div>
                     <div class="media contact-info">
                         <span class="contact-info__icon"><i class="ti-tablet"></i></span>
                         <div class="media-body">
-                            <h3>+213 750 123 456</h3>
+                            <h3>+213 23 60 29 60</h3>
                         </div>
                     </div>
                     <div class="media contact-info">
                         <span class="contact-info__icon"><i class="ti-email"></i></span>
                         <div class="media-body">
-                            <h3>info@viacesi.fr</h3>
-                            <p></p>
+                            <h3>info@Inkidia.dz</h3>
                         </div>
                     </div>
                 </div>

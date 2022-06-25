@@ -1,7 +1,3 @@
-<?php
-    require_once('templates/header.php');
-?>
-
 <!doctype html>
 <html class="no-js" lang="zxx">
 
@@ -38,16 +34,17 @@
 
 
         <div class="slider-area ">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-12">
-                        <div class="hero-cap text-center">
-                            <h2>Liste des TP</h2>
+            <div class="slider-height2 d-flex align-items-center" data-background="assets/img/hero/matiere.png">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-12">
+                            <div class="hero-cap text-center">
+                                <h2>Liste des Matières</h2>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
         </div>
 
         <div class="job-listing-area pt-120 pb-120">
@@ -60,7 +57,7 @@
                         <section class="featured-job-area">
                             <div class="container">
                                 <div class="job-tittle">
-                                    <a href="job_details.html">
+                                    <a href="annee.php">
                                         <h2>Physique</h2>
                                     </a>
                                 </div>
@@ -72,7 +69,7 @@
                         <section class="featured-job-area">
                             <div class="container">
                                 <div class="job-tittle">
-                                    <a href="job_details.html">
+                                    <a href="annee.php">
                                         <h2>Science</h2>
                                     </a>
                                 </div>
@@ -84,7 +81,7 @@
                         <section class="featured-job-area">
                             <div class="container">
                                 <div class="job-tittle">
-                                    <a href="job_details.html">
+                                    <a href="annee.php">
                                         <h2>Mathématiques</h2>
                                     </a>
                                 </div>
@@ -95,7 +92,7 @@
                         <section class="featured-job-area">
                             <div class="container">
                                 <div class="job-tittle">
-                                    <a href="job_details.html">
+                                    <a href="annee.php">
                                         <h2>Histoire</h2>
                                     </a>
                                 </div>
@@ -106,8 +103,8 @@
                         <section class="featured-job-area">
                             <div class="container">
                                 <div class="job-tittle">
-                                    <a href="job_details.html">
-                                        <h2>Geographie</h2>
+                                    <a href="annee.php">
+                                        <h2>Géographie</h2>
                                     </a>
                                 </div>
                             </div>
@@ -118,7 +115,19 @@
                         <section class="featured-job-area">
                             <div class="container">
                                 <div class="job-tittle">
-                                    <a href="job_details.html">
+                                    <a href="annee.php">
+                                        <h2>Sciences Islamiques</h2>
+                                    </a>
+                                </div>
+                            </div>
+
+                    </div>
+                    <div class="col-xl-9 col-lg-9 col-md-8">
+
+                        <section class="featured-job-area">
+                            <div class="container">
+                                <div class="job-tittle">
+                                    <a href="annee.php">
                                         <h2>Arabe</h2>
                                     </a>
                                 </div>
@@ -129,8 +138,8 @@
                         <section class="featured-job-area">
                             <div class="container">
                                 <div class="job-tittle">
-                                    <a href="job_details.html">
-                                        <h2>Francais</h2>
+                                    <a href="annee.php">
+                                        <h2>Français</h2>
                                     </a>
                                 </div>
                             </div>
@@ -140,19 +149,19 @@
                         <section class="featured-job-area">
                             <div class="container">
                                 <div class="job-tittle">
-                                    <a href="job_details.html">
+                                    <a href="annee.php">
                                         <h2>Anglais</h2>
                                     </a>
                                 </div>
                             </div>
                     </div>
-                    < </div>
-
-
                 </div>
-                </section>
+
 
             </div>
+            </section>
+
+        </div>
         </div>
         </div>
         </div>
@@ -162,13 +171,9 @@
                 <div class="row">
                     <div class="col-xl-12">
                         <div class="single-wrap d-flex justify-content-center">
-                            <nav aria-label="Page navigation example">
+                            <nav aria-label="Page navigation matiere">
                                 <ul class="pagination justify-content-start">
                                     <li class="page-item active"><a class="page-link" href="#">01</a></li>
-                                    <li class="page-item"><a class="page-link" href="#">02</a></li>
-                                    <li class="page-item"><a class="page-link" href="#">03</a></li>
-                                    <li class="page-item"><a class="page-link" href="#"><span
-                                                class="ti-angle-right"></span></a></li>
                                 </ul>
                             </nav>
                         </div>
@@ -180,7 +185,7 @@
 
     </main>
 
-    <?php require_once('templates/footer.php') ?>
+
 
     <!-- JS here -->
 

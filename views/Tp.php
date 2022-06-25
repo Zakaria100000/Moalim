@@ -39,7 +39,7 @@
 
         <div class="slider-area ">
             <div class="single-slider section-overly slider-height2 d-flex align-items-center"
-                data-background="assets/img/hero/about.jpg">
+                data-background="assets/img/hero/physic1.jpg">
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-12">
@@ -65,7 +65,8 @@
                                 <div class="single-job-items mb-30">
                                     <div class="job-items">
                                         <div class="company-img">
-                                            <a href="job_details.html"><img src="assets/img/icon/yassir.png" alt=""></a>
+                                            <a href="job_details.html"><img src="assets/img/icon/PenduleSimple.gif"
+                                                    alt=""></a>
                                         </div>
                                         <div class="job-tittle">
                                             <a href="job_details.html">
@@ -78,7 +79,7 @@
                                 <div class="single-job-items mb-30">
                                     <div class="job-items">
                                         <div class="company-img">
-                                            <a href="job_details.html"><img src="assets/img/icon/ooredoo.png"
+                                            <a href="job_details.html"><img src="assets/img/icon/DeuxPendules.png"
                                                     alt=""></a>
                                         </div>
                                         <div class="job-tittle">
@@ -92,11 +93,12 @@
                                 <div class="single-job-items mb-30">
                                     <div class="job-items">
                                         <div class="company-img">
-                                            <a href="job_details.html"><img src="assets/img/icon/heetch.png" alt=""></a>
+                                            <a href="job_details.html"><img src="assets/img/icon/PenduleRessort.png"
+                                                    alt=""></a>
                                         </div>
                                         <div class="job-tittle">
                                             <a href="job_details.html">
-                                                <h4>Ressort 1</h4>
+                                                <h4>Pendule avec ressort</h4>
                                             </a>
                                         </div>
                                     </div>
@@ -105,12 +107,12 @@
                                 <div class="single-job-items mb-30">
                                     <div class="job-items">
                                         <div class="company-img">
-                                            <a href="job_details.html"><img src="assets/img/icon/hive-digit.png"
-                                                    alt=""></a>
+                                            <a href="job_details.html"><img
+                                                    src="assets/img/icon/deuxpendulesdeuxressorts.png" alt=""></a>
                                         </div>
                                         <div class="job-tittle">
                                             <a href="job_details.html">
-                                                <h4>Ressort 2</h4>
+                                                <h4>2 Pendules, 2 Ressorts</h4>
                                             </a>
                                         </div>
                                     </div>
@@ -132,10 +134,6 @@
                             <nav aria-label="Page navigation example">
                                 <ul class="pagination justify-content-start">
                                     <li class="page-item active"><a class="page-link" href="#">01</a></li>
-                                    <li class="page-item"><a class="page-link" href="#">02</a></li>
-                                    <li class="page-item"><a class="page-link" href="#">03</a></li>
-                                    <li class="page-item"><a class="page-link" href="#"><span
-                                                class="ti-angle-right"></span></a></li>
                                 </ul>
                             </nav>
                         </div>

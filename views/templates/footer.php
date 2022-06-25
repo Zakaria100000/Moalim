@@ -24,10 +24,12 @@
                             <h4>Contactez-nous</h4>
                             <ul>
                                 <li>
-                                    <a href="#">Addresse: 32 Rue Mohamed Benkhala Kouba, Alger</a>
+                                    <a
+                                        href="https://www.google.com/maps/place/32+Rue+Benkahla+Mohamed,+Kouba/data=!4m2!3m1!1s0x128fad46f7d92ebf:0x5e08daa4919a2908?sa=X&ved=2ahUKEwjs-JqE8Mj4AhVCh_0HHQbQD-YQ8gF6BAgGEAE">Adresse:
+                                        32 Rue Mohamed Benkhala Kouba, Alger</a>
                                 </li>
-                                <li><a href="#">Téléphone :+213 23 60 29 60</a></li>
-                                <li><a href="#">Email : info@Inkidia.dz</a></li>
+                                <li><a href="https://www.whatsapp.com">Téléphone :+213 23 60 29 60</a></li>
+                                <li><a href="https://www.google.com/gmail/about/">Email : service@Inkidia.dz</a></li>
                             </ul>
                         </div>
 

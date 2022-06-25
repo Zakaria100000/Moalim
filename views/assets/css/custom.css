@@ -15,7 +15,7 @@
   color: #333;
 }
 
-.header-area .main-menu ul li:hover>a {
+.header-area .main-menu ul li:hover > a {
   color: #0a66c2 !important;
 }
 
@@ -33,11 +33,11 @@
 
 /* Footer */
 .footer-area .footer-form form .form-icon button {
-  background-color: #0a66c2 !important;
+  background-color: #edd3c4 !important;
 }
 
 .footer-area .footer-tittle ul li a:hover {
-  color: #0a66c2 !important;
+  color: #edd3c4 !important;
 }
 
 /******** Home page ********/
@@ -54,18 +54,28 @@
 }
 
 /******** Internships page ********/
-.job-category-listing .single-listing .select-Categories .container input:checked ~ .checkmark {
-  background-color: #0a66c2 !important;
+.job-category-listing
+  .single-listing
+  .select-Categories
+  .container
+  input:checked
+  ~ .checkmark {
+  background-color: #edd3c4 !important;
 }
 
 .irs-line {
-  background: linear-gradient(to bottom, #DDD -50%, #FFF 150%);
+  background: linear-gradient(to bottom, #ddd -50%, #fff 150%);
 }
 
 .irs-slider {
   border: 1px solid #0a66c2 !important;
   background-color: #0a66c2 !important;
-  background: linear-gradient(to bottom, #0a66c2 0%, #0a66c2 20%, #0a66c2 100%) !important;
+  background: linear-gradient(
+    to bottom,
+    #0a66c2 0%,
+    #0a66c2 20%,
+    #0a66c2 100%
+  ) !important;
 }
 
 .irs-bar {
