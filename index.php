@@ -43,7 +43,7 @@ $pagesStudent = ["login","logout","home","about","contact","Matiere","Catalogue"
 
 
 
-if(isset($_SESSION['logged']) && $_SESSION['logged'] === true && $_SESSION['role'] === 'admin'){
+if(isset($_SESSION['logged']) && $_SESSION['logged'] === true && $_SESSION['role'] === 'Admin'){
 
 	if(isset($_GET['page'])){
 		if(in_array($_GET['page'],$pagesAdmin)){
@@ -56,7 +56,7 @@ if(isset($_SESSION['logged']) && $_SESSION['logged'] === true && $_SESSION['role
 		$home->index('home');
 	}
 }
-elseif(isset($_SESSION['logged']) && $_SESSION['logged'] === true && $_SESSION['role'] === 'teacher'){
+elseif(isset($_SESSION['logged']) && $_SESSION['logged'] === true && $_SESSION['role'] === 'Teacher'){
 
     if(isset($_GET['page'])){
 		if(in_array($_GET['page'],$pagesTeacher)){
@@ -72,7 +72,7 @@ elseif(isset($_SESSION['logged']) && $_SESSION['logged'] === true && $_SESSION['
 
 
 }
-elseif(isset($_SESSION['logged']) && $_SESSION['logged'] === true && $_SESSION['role'] === 'student'){
+elseif(isset($_SESSION['logged']) && $_SESSION['logged'] === true && $_SESSION['role'] === 'Student'){
 
 	if(isset($_GET['page'])){
 		if(in_array($_GET['page'],$pagesStudent)){
@@ -89,7 +89,7 @@ elseif(isset($_SESSION['logged']) && $_SESSION['logged'] === true && $_SESSION['
 
 else 
 {
-    $home->index('login');
+    $home->index('home');
 }
 
 
